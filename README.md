@@ -1,7 +1,7 @@
 <div style="display: inline_block"><br>
-
-## Olá! Eu sou a Nathália 👋 
  
+## Olá! Eu sou a Nathália 👋 
+
 ### 🌱 Estudando:
 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
